@@ -108,3 +108,15 @@ button:focus-visible {
 .read-the-docs {
   color: #888;
 }
+
+#appFront{
+  padding: 20px;
+  background-color: rgba(130, 153, 230, 0.566);
+  border-radius: 15px;
+}
+
+#appFeat{
+  padding: 20px;
+  background-color: rgb(103, 121, 195);
+  border-radius: 15px;
+}
